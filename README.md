@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Space**
 
-- ⚡ Fun fact **I love Space!**
+- ⚡ Fun fact, **I love Space!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
