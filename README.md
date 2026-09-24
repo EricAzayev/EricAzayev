@@ -3,7 +3,9 @@
 
 I am currently exploring remote sensing, python, machine learning, and other ways to explore the world.
 
-- 🔭 My current side project is **MinecraftMars**
+- 📊 My actively developing data science project is **Spring Foliage Map** 🌷
+
+- 🔭 My current side project is **MinecraftMars** 🔴
 
 - 🌱 I’m currently learning **Pandas, SciKit Learn, Tensorflow, and Open3d**
 
